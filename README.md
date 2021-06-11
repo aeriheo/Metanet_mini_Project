@@ -1,2 +1,3 @@
 # 휴가 신청 프로젝트
-25.11.2019 ~ 19.12.2019 Project / 10 members team project
+19.11.25 ~ 19.12.19
+10 members team project
